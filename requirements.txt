@@ -1,0 +1,5 @@
+# Core dependency - packet parsing
+scapy==2.7.0
+
+# Nothing else is required. Table rendering, entropy math and statistics all
+# use the Python standard library so the tool runs on a clean VM.
